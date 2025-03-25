@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/R2b0NSfN)
 # **Game Title**
 
 Birdie Club
@@ -25,6 +24,9 @@ https://youtu.be/BQtsA7WM8HA
 Simplicity is Key. This is a golf game using physics and golf scoring rules.
 
 ## Twist
+
+_(Add a second action. The second action should complement the first mechanic, which expands their core gameplay without breaking simplicity)
+
 I added an additional action to allow the players to gain a hint while on the green (the area around the hole). This mimics how actual golf players will "read the green" to determine the best way to putt the ball into the hole.
 
 ![alt text](image-4.png)
@@ -50,9 +52,13 @@ Measurement: Players have to calculate the angle and amount of force required to
 _(How does the player navigate the game? What are the controls? Provide a list of inputs and their functions.)_
 
 A key: Move camera to the left
+
 D key: Move camera to the right
+
 Hold Left Mouse Button: Increase the amount of force applied to the ball
+
 Mouse Cursor: Control the angle which the ball will be hit
+
 Click on Focus Button while on green: Gain a hint 
 
 
